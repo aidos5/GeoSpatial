@@ -1,5 +1,4 @@
 from get_canonical import find_canonical_name
-from fuzzywuzzy import fuzz
 from hugging_face import ner_hugging_face
 from geo import get_coordinates
 import streamlit as st
